@@ -1,0 +1,55 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BIT8	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd_config.h	24;"	d	line:24
+BusyXLCD	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd.c	32;"	f	line:32	signature:(void)
+CONFIG_H	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\config.h	12;"	d	line:12
+ConfigUSART	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\uart.c	19;"	f	line:19	signature:(unsigned char config_1, unsigned char config_2)
+ConfigUSART	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\uart.h	16;"	p	line:16	signature:(unsigned char config_1, unsigned char config_2)
+DELAY__H	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.h	13;"	d	line:13
+DelayFor18TCY	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.c	17;"	f	line:17	signature:( void )
+DelayPORXLCD	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.c	25;"	f	line:25	signature:(void)
+DelayXLCD	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.c	34;"	f	line:34	signature:(void)
+Delay_s	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.c	53;"	f	line:53	signature:(unsigned char t)
+Delay_s	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.h	25;"	p	line:25	signature:(unsigned char t)
+E_PIN_::LATAbits.LATA0	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd_config.h	38;"	d	line:38
+Fosc::20000000	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\main.c	34;"	d	line:34	file:
+New_line	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\main.c	41;"	f	line:41	signature:(void)
+OpenXLCD	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd.c	90;"	f	line:90	signature:(unsigned char lcdtype)
+PORTB::PORTD	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd_config.h	27;"	d	line:27
+RS_PIN_::LATAbits.LATA2	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd_config.h	35;"	d	line:35
+RW_PIN_::LATAbits.LATA1	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd_config.h	32;"	d	line:32
+ReadUART	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\uart.c	24;"	f	line:24	signature:(void)
+ReadUART	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\uart.h	27;"	p	line:27	signature:(void)
+TRISB::TRISD	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd_config.h	28;"	d	line:28
+TRIS_E_::TRISAbits.TRISA0	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd_config.h	39;"	d	line:39
+TRIS_RS_::TRISAbits.TRISA2	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd_config.h	36;"	d	line:36
+TRIS_RW_::TRISAbits.TRISA1	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd_config.h	33;"	d	line:33
+UART_H	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\uart.h	12;"	d	line:12
+Write	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\uart.c	38;"	f	line:38	signature:(char data)
+Write	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\uart.h	49;"	p	line:49	signature:(char data)
+WriteCmdXLCD	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd.c	54;"	f	line:54	signature:(unsigned char cmd)
+WriteDataXLCD	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd.c	72;"	f	line:72	signature:(char data)
+Write_str	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\uart.c	31;"	f	line:31	signature:(unsigned char* str)
+Write_str	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\uart.h	38;"	p	line:38	signature:(unsigned char* str)
+XLCD_CONFIG_H	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\xlcd_config.h	22;"	d	line:22
+baud::9600	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\main.c	35;"	d	line:35	file:
+config_1	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\main.c	38;"	v	line:38
+config_2	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\main.c	39;"	v	line:39
+data	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\main.c	51;"	l	line:51
+delay_ms	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.c	42;"	f	line:42	signature:(unsigned char t)
+delay_ms	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.h	15;"	p	line:15	signature:(unsigned char t)
+i	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.c	19;"	l	line:19
+i	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.c	36;"	l	line:36
+i	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.c	44;"	l	line:44
+i	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.c	55;"	l	line:55
+i	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\main.c	53;"	l	line:53
+j	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\delay.c	55;"	l	line:55
+main	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\main.c	49;"	f	line:49	signature:( void )
+spbrg::((Fosc/baud/64)-1)	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\main.c	36;"	d	line:36	file:
+str	C:\Dropbox\Sunil Kumar_shared (1)\CODE_Examples_C18_XC8_compatable\LCD\Example_7.3.X\main.c	51;"	l	line:51
